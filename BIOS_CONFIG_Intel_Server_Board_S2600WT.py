@@ -3,7 +3,7 @@ import sys
 import time
 
 '''
-This script is to automatically configure PXE boot for Intel Server Board S2600WT Family.
+This script is to automate the manual, repetitive and time consuming PXE configuration process for Intel Server Board S2600WT Family.
 '''
 
 term_srv = sys.argv[1]
